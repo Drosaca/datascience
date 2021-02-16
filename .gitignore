@@ -1,2 +1,6 @@
+*
+!*.ipynb
+!*.py
+.idea
 venv/
 datasets/
