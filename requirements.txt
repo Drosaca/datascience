@@ -5,4 +5,4 @@ pandas
 nltk
 jupyterlab
 kaggle
-dotenv
+python-dotenv
