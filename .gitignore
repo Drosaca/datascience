@@ -1,7 +1,11 @@
-*
+.idea
+venv/
+__pycache__
+
+datasets/training.1600000.processed.noemoticon.csv
+/*.csv
+
 !*.ipynb
 !*.py
 !requirements.txt
-.idea
-venv/
-datasets/
+!datasets/test/tweets.csv
