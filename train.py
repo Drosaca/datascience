@@ -26,4 +26,5 @@ def train(x_train, x_label, y_test, y_label, classifiers):
 
     if len(classifiers) > 1:
         plt.bar(classifiers.keys(), scores, width=0.3, data=scores)
+        plt.grid()
         plt.show()
